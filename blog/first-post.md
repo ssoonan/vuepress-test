@@ -1,9 +1,9 @@
 ---
-title: Bacon ipsum dolor amet hamburger pancetta ball tip
-date: 2018-07-28
-description: Kielbasa tenderloin boudin bacon cupim, pastrami strip steak rump picanha meatloaf venison meatball ribeye. Burgdoggen t-bone jowl venison biltong andouille. Turducken shankle tongue landjaeger drumstick, pancetta porchetta. Brisket ham turkey andouille picanha. Pancetta chuck shank ham.
+title: 첫번째 post test
+description: 첫번째 post입니다.
 ---
 
 # First post
 
-awesome한 content입니다만...
+첫번쨰 post. 잘 나오고 있는가?
+vue는 왜 해도 해도 적응이 안 되나 모르겠다. 아마 더 하는 방법 말고는 없겠지만 말이다.
